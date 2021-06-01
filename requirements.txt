@@ -31,7 +31,7 @@ requests==2.19.1
 rsa==3.4.2
 s3transfer==0.1.13
 six==1.11.0
-urllib3==1.23
+urllib3==1.26.5
 websocket-client==0.48.0
 Werkzeug==0.14.1
 whichcraft==0.4.1
